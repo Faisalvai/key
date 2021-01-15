@@ -15,7 +15,7 @@ class Terkey:
   def banner(self):
       os.system('clear')
       print(f'{c}Terkey {a}[{c}Termux Key{a}]'.center(68))
-      print(f'{a}Emon Vaw'.center(53))
+      print(f'{a}Karjok Pangesty'.center(53))
       print("".join([i for i in "\n"*3]))
       
   # Loading animation   
@@ -67,11 +67,18 @@ class Terkey:
     {a}W E L C O M E  !{c}
     
     This is Terkey, yeah, Termux Key !
-    A program from {a}MafiaKiller404{c} for you.
+    A program from {a}Karjok Pangesty{c} for you.
     This tool is only for Termux app and absolutely FREE !
     
     You can find all default keys in this program at
     {a}https://wiki.termux.com/wiki/Touch_Keyboard{c}
+    
+    Want to chat with me ?
+    {a}https://t.me/om_karjok{c}
+    My Web Site
+    {a}https://www.karjokpangesty.com{c}
+    And if you want to give me some money, you can visit
+    {a}https://trakteer.id/karjok-pangesty{c}
     
     """
     )
