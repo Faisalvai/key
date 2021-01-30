@@ -15,7 +15,7 @@ class Terkey:
   def banner(self):
       os.system('clear')
       print(f'{c}Manual Set {a}[{c}Termux Key{a}]'.center(68))
-      print(f'{a}Emon Vaw'.center(53))
+      print(f'{a}Faisal Vai'.center(53))
       print("".join([i for i in "\n"*3]))
       
   # Loading animation   
@@ -67,7 +67,7 @@ class Terkey:
     {a}W E L C O M E  !{c}
     
     This is Termux Key !
-    A program from {a}Emon vaw{c} for you.
+    A program from {a}Faisal Vai{c} for you.
     This tool is only for Termux app and absolutely FREE !
     
     You can find all default keys in this program at
